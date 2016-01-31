@@ -3,5 +3,5 @@ li a {
 }
 
 body {
-	background: white url("images/grumpycat.jpe") no-repeat right bottom;
+	background: white url("images/grumpycat.jpe") no-repeat fixed right bottom;
 }
